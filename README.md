@@ -1,53 +1,65 @@
-# Gaius Engenharia - Landing Page
+# 🌐 Gaius Engenharia - Landing Page
 
-Este projeto é uma landing page moderna e responsiva para a empresa Gaius Engenharia, do engenheiro Caio Malheiros.
+Este projeto é uma **Landing Page moderna e responsiva** desenvolvida para a empresa **[Gaius Engenharia](https://www.instagram.com/gaius_engenharia/)**, do Eng. **Caio Malheiros**.  
 
-## Visão Geral
+O objetivo foi criar uma presença digital com **design profissional inspirado em engenharia civil e construção**, utilizando cores sóbrias (azul, cinza e branco) para transmitir **credibilidade, inovação e solidez** — valores fundamentais no setor.
 
-A landing page foi desenvolvida com foco em design profissional inspirado em engenharia civil e construção, utilizando cores sóbrias (tons de azul, cinza e branco) para transmitir confiança e solidez.
+---
 
-## Estrutura da Página
+## 📖 Visão Geral
+A landing page foi desenvolvida com foco em **impacto visual e usabilidade**, aplicando elementos modernos e opcionais em 3D para reforçar o conceito de inovação.  
 
-- **Seção Hero**: Apresenta o nome da empresa, slogan e um botão de chamada para ação.
-- **Sobre a Empresa**: Breve texto sobre a atuação da Gaius Engenharia, com ênfase em projetos estruturais, soluções inovadoras e atendimento personalizado.
-- **Serviços**: Lista de serviços oferecidos pela empresa em cartões estilizados.
-- **Depoimentos**: Espaço para futuras avaliações de clientes.
-- **Contato**: Formulário simples para contato e informações da empresa.
-- **Rodapé (Footer)**: Logo em versão reduzida, links rápidos e redes sociais.
+---
 
-## Tecnologias Utilizadas
+## 🏗️ Estrutura da Página
+- **Seção Hero**  
+  Apresenta o nome da empresa, slogan e botão de chamada para ação.  
+- **Sobre a Empresa**  
+  Breve texto sobre a atuação da Gaius Engenharia, destacando projetos estruturais, soluções inovadoras e atendimento personalizado.  
+- **Serviços**  
+  Lista de serviços oferecidos pela empresa em cartões estilizados.  
+- **Depoimentos (opcional)**  
+  Espaço reservado para futuras avaliações de clientes.  
+- **FAQ**  
+  Acordeão dinâmico para responder dúvidas frequentes.  
+- **Contato**  
+  Formulário validado para envio de mensagens + links rápidos para WhatsApp e e-mail.  
+- **Rodapé (Footer)**  
+  Logo em versão reduzida, links rápidos e redes sociais.  
 
-- HTML5
-- CSS3
-- JavaScript
-- SVG para imagens vetoriais
+---
 
-## Recursos
+## ✨ Funcionalidades
+- **Design moderno e responsivo** (desktop, tablet e mobile)  
+- **Header fixo** com navegação fluida  
+- **Animações suaves** (scroll reveal e interações em hover)  
+- **Formulário de contato validado** (com integração a WhatsApp e e-mail)  
+- **FAQ dinâmico** em acordeão  
+- **Elementos opcionais em 3D** para reforçar o conceito de inovação  
+- **Portfólio/galeria** preparado para expansão futura  
 
-- Design responsivo para desktop e mobile
-- Animações suaves em botões e cards
-- Menu de navegação responsivo
-- Formulário de contato
-- Ícones de redes sociais clicáveis
+---
 
-## Como Usar
+## 🛠️ Tecnologias Utilizadas
+- **HTML5**  
+- **CSS3 / TailwindCSS**  
+- **JavaScript (ES6+)**  
+- **SVG** para ícones e imagens vetoriais  
+- (Opcional) **React + Vite** para componentização e manutenção escalável  
 
-1. Clone este repositório
-2. Abra o arquivo `index.html` em seu navegador
+---
 
-## Personalização
+## 🎨 Identidade Visual
+- **Paleta de cores**: azul petróleo, cinza neutro e detalhes em cobre/dourado  
+- **Tipografia**:  
+  - Títulos → **Poppins**  
+  - Texto → **Inter**  
+- **Inspiração visual**: projetos de engenharia civil, grids, estruturas técnicas e estética minimalista de construção moderna  
 
-Para personalizar esta landing page:
+---
 
-1. Substitua as imagens SVG na pasta `images` por suas próprias imagens
-2. Atualize as informações de contato no arquivo `index.html`
-3. Modifique as cores no arquivo `styles.css` conforme necessário
+## 📸 Prévia do Projeto
+(Adicione aqui prints ou um GIF da navegação pelo site)
 
-## Créditos
-
-- Ícones: Font Awesome
-- Fontes: Google Fonts (Montserrat e Roboto)
-
-## Licença
-
-Este projeto é apenas para fins demonstrativos.
+```markdown
+![Demonstração da Landing Page](./assets/GaiusEngenharia.gif)
