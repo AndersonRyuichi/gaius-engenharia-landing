@@ -19,9 +19,7 @@ A landing page foi desenvolvida com foco em **impacto visual e usabilidade**, ap
 - **Serviços**  
   Lista de serviços oferecidos pela empresa em cartões estilizados.  
 - **Depoimentos**  
-  Espaço reservado para futuras avaliações de clientes.  
-- **FAQ**  
-  Acordeão dinâmico para responder dúvidas frequentes.  
+  Espaço reservado para futuras avaliações de clientes.   
 - **Contato**  
   Formulário validado para envio de mensagens + links rápidos para WhatsApp e e-mail.  
 - **Rodapé (Footer)**  
