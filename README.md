@@ -45,7 +45,6 @@ A landing page foi desenvolvida com foco em **impacto visual e usabilidade**, ap
 - **CSS3 / TailwindCSS**  
 - **JavaScript (ES6+)**  
 - **SVG** para ícones e imagens vetoriais  
-- (Opcional) **React + Vite** para componentização e manutenção escalável  
 
 ---
 
