@@ -1,39 +1,53 @@
-# 🌐 Landing Page - Gaius Engenharia
+# Gaius Engenharia - Landing Page
 
-Projeto de **Landing Page profissional** desenvolvido para a empresa **[Gaius Engenharia](https://www.instagram.com/gaius_engenharia/)**, do Eng. Caio Malheiros.  
+Este projeto é uma landing page moderna e responsiva para a empresa Gaius Engenharia, do engenheiro Caio Malheiros.
 
-O objetivo foi criar uma presença digital moderna e responsiva, transmitindo **credibilidade, inovação e solidez**, valores fundamentais no setor de engenharia civil.  
+## Visão Geral
 
----
+A landing page foi desenvolvida com foco em design profissional inspirado em engenharia civil e construção, utilizando cores sóbrias (tons de azul, cinza e branco) para transmitir confiança e solidez.
 
-## ✨ Funcionalidades
-- **Design moderno e responsivo** (desktop, tablet e mobile)  
-- **Header fixo com navegação fluida**  
-- **Hero Section com CTA e destaque para o slogan da empresa**  
-- **Seções de Sobre, Serviços, Portfólio e Diferenciais**  
-- **FAQ dinâmico (acordeão)**  
-- **Formulário de contato validado** com integração para WhatsApp e e-mail  
-- **Rodapé completo** com links rápidos e redes sociais  
-- **Animações suaves** (scroll reveal e interações em hover)  
-- **Elementos opcionais em 3D** para reforçar o conceito de inovação  
+## Estrutura da Página
 
----
+- **Seção Hero**: Apresenta o nome da empresa, slogan e um botão de chamada para ação.
+- **Sobre a Empresa**: Breve texto sobre a atuação da Gaius Engenharia, com ênfase em projetos estruturais, soluções inovadoras e atendimento personalizado.
+- **Serviços**: Lista de serviços oferecidos pela empresa em cartões estilizados.
+- **Depoimentos**: Espaço para futuras avaliações de clientes.
+- **Contato**: Formulário simples para contato e informações da empresa.
+- **Rodapé (Footer)**: Logo em versão reduzida, links rápidos e redes sociais.
 
-## 🛠️ Tecnologias utilizadas
-- **HTML5**  
-- **CSS3 / TailwindCSS**  
-- **JavaScript (ES6+)**  
-- (Opcional) **React + Vite** para componentização e manutenção escalável  
+## Tecnologias Utilizadas
 
----
+- HTML5
+- CSS3
+- JavaScript
+- SVG para imagens vetoriais
 
-## 🎨 Identidade Visual
-- Paleta de cores: tons de **azul petróleo**, **cinza neutro** e detalhes em **cobre/dourado**  
-- Tipografia: **Poppins** (títulos) e **Inter** (corpo de texto)  
-- Elementos visuais inspirados em **projetos de engenharia civil** e **construção moderna**
+## Recursos
 
----
+- Design responsivo para desktop e mobile
+- Animações suaves em botões e cards
+- Menu de navegação responsivo
+- Formulário de contato
+- Ícones de redes sociais clicáveis
 
-## 📸 Prévia do Projeto
+## Como Usar
 
-![Demonstração da Landing Page](./assets/demo.gif)
+1. Clone este repositório
+2. Abra o arquivo `index.html` em seu navegador
+
+## Personalização
+
+Para personalizar esta landing page:
+
+1. Substitua as imagens SVG na pasta `images` por suas próprias imagens
+2. Atualize as informações de contato no arquivo `index.html`
+3. Modifique as cores no arquivo `styles.css` conforme necessário
+
+## Créditos
+
+- Ícones: Font Awesome
+- Fontes: Google Fonts (Montserrat e Roboto)
+
+## Licença
+
+Este projeto é apenas para fins demonstrativos.

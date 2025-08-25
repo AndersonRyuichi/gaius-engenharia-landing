@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 80" width="300" height="80">
+  <!-- Fundo do logo (opcional) -->
+  <rect width="300" height="80" fill="none"/>
+  
+  <!-- Letra G estilizada -->
+  <path d="M50 15 C30 15, 15 30, 15 50 C15 70, 30 85, 50 85 C70 85, 85 70, 85 50 L65 50 C65 60, 60 65, 50 65 C40 65, 35 60, 35 50 C35 40, 40 35, 50 35 C55 35, 60 38, 60 45 L50 45 L50 55 L75 55 L75 45 C75 28, 65 15, 50 15 Z" fill="#1a4b84"/>
+  
+  <!-- Texto "GAIUS" -->
+  <text x="100" y="50" font-family="Montserrat, sans-serif" font-size="32" font-weight="700" fill="#1a4b84">GAIUS</text>
+  
+  <!-- Texto "ENGENHARIA" -->
+  <text x="100" y="70" font-family="Montserrat, sans-serif" font-size="16" font-weight="500" fill="#3a7abd">ENGENHARIA</text>
+  
+  <!-- Elemento gráfico adicional (régua/esquadro estilizado) -->
+  <path d="M85 25 L95 15 L95 25 Z" fill="#3a7abd"/>
+</svg>

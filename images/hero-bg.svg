@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <!-- Gradiente de fundo -->
+  <defs>
+    <linearGradient id="bg-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d2b4b" />
+      <stop offset="100%" stop-color="#1a4b84" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Fundo com gradiente -->
+  <rect width="1920" height="1080" fill="url(#bg-gradient)" />
+  
+  <!-- Padrão de linhas de grade (representando plantas/projetos) -->
+  <g opacity="0.1" stroke="#ffffff" stroke-width="1">
+    <!-- Linhas horizontais -->
+    <line x1="0" y1="100" x2="1920" y2="100" />
+    <line x1="0" y1="200" x2="1920" y2="200" />
+    <line x1="0" y1="300" x2="1920" y2="300" />
+    <line x1="0" y1="400" x2="1920" y2="400" />
+    <line x1="0" y1="500" x2="1920" y2="500" />
+    <line x1="0" y1="600" x2="1920" y2="600" />
+    <line x1="0" y1="700" x2="1920" y2="700" />
+    <line x1="0" y1="800" x2="1920" y2="800" />
+    <line x1="0" y1="900" x2="1920" y2="900" />
+    <line x1="0" y1="1000" x2="1920" y2="1000" />
+    
+    <!-- Linhas verticais -->
+    <line x1="100" y1="0" x2="100" y2="1080" />
+    <line x1="300" y1="0" x2="300" y2="1080" />
+    <line x1="500" y1="0" x2="500" y2="1080" />
+    <line x1="700" y1="0" x2="700" y2="1080" />
+    <line x1="900" y1="0" x2="900" y2="1080" />
+    <line x1="1100" y1="0" x2="1100" y2="1080" />
+    <line x1="1300" y1="0" x2="1300" y2="1080" />
+    <line x1="1500" y1="0" x2="1500" y2="1080" />
+    <line x1="1700" y1="0" x2="1700" y2="1080" />
+    <line x1="1900" y1="0" x2="1900" y2="1080" />
+  </g>
+  
+  <!-- Elementos de construção estilizados -->
+  <g opacity="0.2" fill="none" stroke="#ffffff" stroke-width="2">
+    <!-- Prédio estilizado à esquerda -->
+    <rect x="200" y="400" width="300" height="500" />
+    <line x1="250" y1="400" x2="250" y2="900" />
+    <line x1="300" y1="400" x2="300" y2="900" />
+    <line x1="350" y1="400" x2="350" y2="900" />
+    <line x1="400" y1="400" x2="400" y2="900" />
+    <line x1="450" y1="400" x2="450" y2="900" />
+    
+    <line x1="200" y1="450" x2="500" y2="450" />
+    <line x1="200" y1="500" x2="500" y2="500" />
+    <line x1="200" y1="550" x2="500" y2="550" />
+    <line x1="200" y1="600" x2="500" y2="600" />
+    <line x1="200" y1="650" x2="500" y2="650" />
+    <line x1="200" y1="700" x2="500" y2="700" />
+    <line x1="200" y1="750" x2="500" y2="750" />
+    <line x1="200" y1="800" x2="500" y2="800" />
+    <line x1="200" y1="850" x2="500" y2="850" />
+    
+    <!-- Estrutura à direita -->
+    <polygon points="1400,500 1700,500 1600,300 1500,300" />
+    <line x1="1450" y1="500" x2="1450" y2="900" />
+    <line x1="1650" y1="500" x2="1650" y2="900" />
+    <line x1="1450" y1="900" x2="1650" y2="900" />
+    <line x1="1450" y1="700" x2="1650" y2="700" />
+    <line x1="1500" y1="300" x2="1500" y2="500" />
+    <line x1="1600" y1="300" x2="1600" y2="500" />
+  </g>
+  
+  <!-- Elementos de wireframe 3D -->
+  <g opacity="0.3" fill="none" stroke="#ffffff" stroke-width="1.5">
+    <!-- Cubo wireframe central -->
+    <polygon points="960,400 1060,450 960,500 860,450" />
+    <polygon points="960,400 1060,450 1060,650 960,600" />
+    <polygon points="960,600 1060,650 960,700 860,650" />
+    <polygon points="960,400 860,450 860,650 960,600" />
+    <line x1="960" y1="500" x2="960" y2="600" />
+    <line x1="1060" y1="450" x2="960" y2="500" />
+    <line x1="960" y1="500" x2="860" y2="450" />
+  </g>
+  
+  <!-- Elementos de compasso/régua (símbolos de engenharia) -->
+  <g opacity="0.4" fill="none" stroke="#ffffff" stroke-width="2">
+    <!-- Compasso estilizado -->
+    <circle cx="1200" cy="800" r="80" />
+    <line x1="1200" y1="720" x2="1200" y2="880" />
+    <line x1="1120" y1="800" x2="1280" y2="800" />
+    
+    <!-- Régua/esquadro -->
+    <polygon points="700,750 800,750 800,850" />
+  </g>
+</svg>
