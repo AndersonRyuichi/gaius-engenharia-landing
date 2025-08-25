@@ -31,3 +31,9 @@ O objetivo foi criar uma presença digital moderna e responsiva, transmitindo **
 - Paleta de cores: tons de **azul petróleo**, **cinza neutro** e detalhes em **cobre/dourado**  
 - Tipografia: **Poppins** (títulos) e **Inter** (corpo de texto)  
 - Elementos visuais inspirados em **projetos de engenharia civil** e **construção moderna**
+
+---
+
+## 📸 Prévia do Projeto
+
+![Demonstração da Landing Page](./assets/demo.gif)
