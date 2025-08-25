@@ -59,7 +59,5 @@ A landing page foi desenvolvida com foco em **impacto visual e usabilidade**, ap
 ---
 
 ## 📸 Prévia do Projeto
-
-<h2>📸 Prévia do Projeto</h2>
-<img src="assets/demo.gif" alt="Demonstração da Landing Page" width="800"/>
+![Demonstração da Landing Page](assets/demo.gif)
 
