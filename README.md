@@ -7,7 +7,7 @@ O objetivo foi criar uma presença digital com **design profissional inspirado e
 ---
 
 ## 📖 Visão Geral
-A landing page foi desenvolvida com foco em **impacto visual e usabilidade**, aplicando elementos modernos e opcionais em 3D para reforçar o conceito de inovação.  
+A landing page foi desenvolvida com foco em **impacto visual e usabilidade**, aplicando elementos modernos e em 3D para reforçar o conceito de inovação.  
 
 ---
 
