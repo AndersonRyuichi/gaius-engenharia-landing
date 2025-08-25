@@ -12,7 +12,7 @@ A landing page foi desenvolvida com foco em **impacto visual e usabilidade**, ap
 ---
 
 ## 🏗️ Estrutura da Página
-- **Seção Hero**  
+- **Seção Home**  
   Apresenta o nome da empresa, slogan e botão de chamada para ação.  
 - **Sobre a Empresa**  
   Breve texto sobre a atuação da Gaius Engenharia, destacando projetos estruturais, soluções inovadoras e atendimento personalizado.  
