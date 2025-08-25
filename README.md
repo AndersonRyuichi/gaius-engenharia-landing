@@ -18,7 +18,7 @@ A landing page foi desenvolvida com foco em **impacto visual e usabilidade**, ap
   Breve texto sobre a atuação da Gaius Engenharia, destacando projetos estruturais, soluções inovadoras e atendimento personalizado.  
 - **Serviços**  
   Lista de serviços oferecidos pela empresa em cartões estilizados.  
-- **Depoimentos (opcional)**  
+- **Depoimentos**  
   Espaço reservado para futuras avaliações de clientes.  
 - **FAQ**  
   Acordeão dinâmico para responder dúvidas frequentes.  
