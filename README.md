@@ -59,10 +59,6 @@ A landing page foi desenvolvida com foco em **impacto visual e usabilidade**, ap
 ---
 
 ## 📸 Prévia do Projeto
-(Adicione aqui prints ou um GIF da navegação pelo site)
-
-```markdown
-![Demonstração da Landing Page](./assets/GaiusEngenharia.gif)
 
 <h2>📸 Prévia do Projeto</h2>
 <img src="assets/demo.gif" alt="Demonstração da Landing Page" width="800"/>
