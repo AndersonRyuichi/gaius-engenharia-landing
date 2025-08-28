@@ -353,6 +353,71 @@ nav {
     margin-bottom: 15px;
 }
 
+/* Seção Projetos e Realizações */
+.projetos {
+    padding: 100px 0;
+    background-color: var(--white);
+}
+
+.projetos-galeria {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 25px;
+    margin-top: 40px;
+}
+
+.projeto-item {
+    position: relative;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 5px 15px var(--shadow);
+    height: 250px;
+    transition: all 0.3s ease;
+}
+
+.projeto-item img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.5s ease;
+}
+
+.projeto-overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.8), transparent);
+    padding: 20px;
+    transform: translateY(100%);
+    transition: transform 0.3s ease;
+}
+
+.projeto-overlay h3 {
+    color: var(--white);
+    font-size: 1.2rem;
+    margin-bottom: 5px;
+}
+
+.projeto-overlay p {
+    color: var(--light-color);
+    font-size: 0.9rem;
+    margin: 0;
+}
+
+.projeto-item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.2);
+}
+
+.projeto-item:hover img {
+    transform: scale(1.05);
+}
+
+.projeto-item:hover .projeto-overlay {
+    transform: translateY(0);
+}
+
 /* Seção Depoimentos */
 .depoimentos {
     padding: 100px 0;
